@@ -1,0 +1,13 @@
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\bin\Debug\SubscriberCounterCsharp.exe.config
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\bin\Debug\SubscriberCounterCsharp.exe
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\bin\Debug\SubscriberCounterCsharp.pdb
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\obj\Debug\SubscriberCounterCsharp.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\obj\Debug\SubscriberCounterCsharp.Properties.Resources.resources
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\obj\Debug\SubscriberCounterCsharp.SubscriberCounter.resources
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\obj\Debug\SubscriberCounterCsharp.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\obj\Debug\SubscriberCounterCsharp.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\obj\Debug\SubscriberCounterCsharp.exe
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\obj\Debug\SubscriberCounterCsharp.pdb
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tomas\source\repos\SubscriberCounterCsharp\SubscriberCounterCsharp\obj\Debug\SubscriberCounterCsharp.csproj.CopyComplete
